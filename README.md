@@ -97,7 +97,7 @@ This project has minimal dependencies, which can be installed using `pip` and a 
 
 ### Steps:
 
-1. Clone the repository:
+1. Clone the repository (replace URL with link to your Github Classroom-generated repo):
    ```bash
    git clone https://github.com/UCB-BioE-Anderson-Lab/UCB_BioE134_GeneDesign.git
    cd UCB_BioE134_GeneDesign
